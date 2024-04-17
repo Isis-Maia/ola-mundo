@@ -32,3 +32,7 @@ Lista de tarefas:
 - [ ] carne
 - [ ] guarana
 
+num | nome | nota
+---|---|---
+1 | gabriel | 8,3
+2 | joana | 0,0
